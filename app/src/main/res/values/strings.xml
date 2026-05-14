@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Shishu Sneha</string>
+    <string name="app_tagline">Your Baby\'s First Year Guide</string>
+    <string name="app_tagline_kannada">ಶಿಶು ಸ್ನೇಹ</string>
+    <string name="splash_subtitle">Your Baby\'s First Year Guide</string>
+
+    <!-- Profile setup -->
+    <string name="welcome_to_shishu_sneh">Welcome to Shishu Sneha</string>
+    <string name="setup_profile_desc">Let\'s set up your baby\'s profile</string>
+    <string name="mothers_info">Mother\'s Information</string>
+    <string name="your_name">Your Name</string>
+    <string name="profile_mother_name">Mother\'s Name</string>
+    <string name="babys_info">Baby\'s Information</string>
+    <string name="babys_name">Baby\'s Name</string>
+    <string name="profile_baby_name">Baby Name</string>
+    <string name="babys_gender">Baby\'s Gender</string>
+    <string name="boy">Boy</string>
+    <string name="girl">Girl</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="profile_dob">Date of Birth</string>
+    <string name="tap_to_select">Tap to select date</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="start_journey">Start My Journey ✨</string>
+    <string name="please_fill_all">Please fill in all fields</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_baby_name_required">Baby\u0027s name is required</string>
+    <string name="error_dob_required">Please select a date of birth</string>
+
+    <!-- Home -->
+    <string name="good_morning">Good morning</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="is_weeks_old">%1$s is %2$d weeks old</string>
+    <string name="babys_age">Baby\'s age</string>
+    <string name="weeks_short">%d wks</string>
+    <string name="months_days">%1$d months %2$d days</string>
+    <string name="days_old">%d days old</string>
+    <string name="last_weight">Last weight</string>
+    <string name="healthy_range">Healthy range</string>
+    <string name="no_data_yet">No data yet</string>
+    <string name="next_vaccine">Next vaccine</string>
+    <string name="up_to_date">Up to date</string>
+    <string name="due_today_home">Due today!</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="in_days">In %d days</string>
+    <string name="all_done">All done ✓</string>
+    <string name="vaccination_schedule">VACCINATION SCHEDULE</string>
+    <string name="upcoming_vaccines">Upcoming vaccines</string>
+    <string name="due_soon_count">%d due soon</string>
+    <string name="todays_milestone">TODAY\'S MILESTONE</string>
+    <string name="week_check">Week %d check</string>
+    <string name="add_weight">+ Add today\'s weight ↗</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_growth">Growth</string>
+    <string name="nav_vaccines">Vaccines</string>
+    <string name="nav_feeding">Feeding</string>
+    <string name="nav_milestones">Milestones</string>
+
+    <!-- Growth -->
+    <string name="growth_tracker">Growth Tracker</string>
+    <string name="track_growth_desc">Track %s\'s growth journey</string>
+    <string name="latest_weight">Latest Weight</string>
+    <string name="latest_height">Latest Height</string>
+    <string name="growth_chart">Growth Chart</string>
+    <string name="monthly_trend">Monthly weight &amp; height trend</string>
+    <string name="weight_kg_label">Weight (kg)</string>
+    <string name="height_cm_label">Height (cm)</string>
+    <string name="add_new_record">Add New Record</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="valid_weight">Enter a valid weight (0.1 - 30 kg)</string>
+    <string name="valid_height">Enter a valid height (1 - 120 cm)</string>
+    <string name="save_record">Save Record</string>
+    <string name="history">HISTORY</string>
+    <string name="no_records_yet">No records yet</string>
+    <string name="add_first_weight">Add your baby\'s first weight measurement!</string>
+
+    <!-- Vaccination -->
+    <string name="vaccine_schedule">Vaccine Schedule</string>
+    <string name="immunization_plan">%s\'s immunization plan</string>
+    <string name="vaccination_progress">Vaccination Progress</string>
+    <string name="completed_count">%1$d of %2$d completed</string>
+    <string name="vaccines_due_soon">%d vaccine(s) due soon</string>
+    <string name="done_label">Done</string>
+    <string name="due_soon_label">Due Soon</string>
+    <string name="upcoming_label">Upcoming</string>
+    <string name="missed_label">Missed</string>
+    <string name="completed_check">Completed ✓</string>
+    <string name="due_in_days">Due in %d days</string>
+    <string name="overdue_doctor">Overdue — see doctor</string>
+    <string name="prevents">🛡️ Prevents: %s</string>
+    <string name="setup_profile_first">Set up your baby\'s profile first</string>
+    <string name="mark_done">Mark as Done ✓</string>
+    <string name="mark_undone">✓ Mark as Not Done</string>
+    <string name="mark_administered_late">Mark Administered Late</string>
+
+    <!-- Feeding -->
+    <string name="feeding_guide">Feeding Guide</string>
+    <string name="nutrition_tips">Age-appropriate nutrition tips</string>
+    <string name="showing_tips">Showing tips for %s</string>
+    <string name="months_old">%d months old</string>
+    <string name="newborn">newborn</string>
+    <string name="general_guidance">GENERAL GUIDANCE</string>
+
+    <!-- Feeding/Profile -->
+    <string name="months_old_short">%d months old</string>
+
+    <!-- Milestones -->
+    <string name="milestones">Milestones</string>
+    <string name="dev_journey">%s\'s developmental journey</string>
+    <string name="milestones_achieved">Milestones Achieved</string>
+    <string name="checked_count">%1$d of %2$d checked</string>
+    <string name="all">All</string>
+    <string name="milestones_appear">Milestones will appear as your baby grows!</string>
+    <string name="yes_check">Yes ✓</string>
+    <string name="not_yet">Not yet</string>
+
+    <!-- Profiles -->
+    <string name="baby_profiles">Baby Profiles</string>
+    <string name="manage_profiles">Manage multiple baby profiles</string>
+    <string name="switch_baby">Switch</string>
+    <string name="active">Active</string>
+    <string name="add_baby">Add Baby</string>
+
+    <!-- Language -->
+    <string name="language_settings">Language Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="select_language">Select Language / ಭಾಷೆಯನ್ನು ಆರಿಸಿ</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
+    <!-- Notifications -->
+    <string name="vaccine_channel_name">Vaccine Reminders</string>
+    <string name="vaccine_channel_desc">Notifications for upcoming vaccinations</string>
+    <string name="vaccine_reminder_title">💉 Vaccine Reminder</string>
+
+    <!-- Growth Chart -->
+    <string name="chart_height_note">Note: Height shown as cm ÷ 10 to fit the same axis as weight</string>
+    <string name="add_more_records">Add one more record to see the growth trend</string>
+    <!-- Feeding Tips Titles -->
+    <string name="tip_exclusive_breastfeeding">Exclusive Breastfeeding</string>
+    <string name="tip_breastfeeding_latch">Breastfeeding Latch</string>
+    <string name="tip_night_feeding">Night Feeding</string>
+    <string name="tip_starting_solids">Starting Solids</string>
+    <string name="tip_foods_introduce">Foods to Introduce</string>
+    <string name="tip_foods_avoid">Foods to Avoid Under 1 Year</string>
+    <string name="tip_iron_rich_foods">Iron-Rich Foods</string>
+    <string name="tip_signs_hunger">Signs of Hunger</string>
+    <string name="tip_vitamin_d">Vitamin D Supplementation</string>
+    <string name="tip_hydration_toddlers">Hydration for Toddlers</string>
+
+    <!-- Feeding Tips Descriptions -->
+    <string name="desc_exclusive_breastfeeding">Breast milk is the perfect food for your baby. Feed on demand — every 2-3 hours (8-12 times/day). No water, no other foods needed for the first 6 months.</string>
+    <string name="desc_breastfeeding_latch">Ensure baby\'s mouth covers the areola (dark area), not just the nipple. A good latch doesn\'t hurt. If it hurts, gently break the latch and try again.</string>
+    <string name="desc_night_feeding">Night feeds are important for milk supply. Prolactin (milk-making hormone) is highest at night. Try side-lying position for comfort.</string>
+    <string name="desc_starting_solids">At 6 months, introduce soft mashed foods: rice porridge, dal, banana, boiled vegetables. Start with 1-2 teaspoons, gradually increase. Continue breastfeeding.</string>
+    <string name="desc_foods_introduce">6-8 months: mashed cereals, vegetables, fruits\n8-10 months: minced meats, eggs, soft finger foods\n10-12 months: family foods (mashed)</string>
+    <string name="desc_foods_avoid">❌ Honey (botulism risk)\n❌ Cow\'s milk as main drink\n❌ Added salt or sugar\n❌ Whole nuts (choking)\n❌ Raw eggs</string>
+    <string name="desc_iron_rich_foods">Iron is critical for brain development. Good sources: dal (lentils), meat, fortified cereals, leafy greens. Pair with Vitamin C foods (tomato, lemon) to boost absorption.</string>
+    <string name="desc_signs_hunger">Early signs: rooting reflex, sucking hands, turning head side to side\nLate signs: crying is a LATE sign — try to feed before crying starts</string>
+    <string name="desc_vitamin_d">If exclusively breastfed, give 400 IU Vitamin D drops daily from day 1. Sunlight alone is not enough for dark-skinned babies or babies in northern regions.</string>
+    <string name="desc_hydration_toddlers">After 12 months, introduce whole cow\'s milk (limit to 16-24 oz/day). Water is the best drink. Avoid fruit juices — they have high sugar and low nutrition.</string>
+
+    <!-- General Feeding Tips -->
+    <string name="gen_tip_doctor">🩺 Visit your doctor if baby is not gaining weight</string>
+    <string name="gen_tip_force_feed">😴 Never force-feed a sleeping baby</string>
+    <string name="gen_tip_wash_hands">🧼 Wash hands before every feed</string>
+    <string name="gen_tip_diary">📝 Keep a feeding diary for the first month</string>
+    <string name="gen_tip_instincts">💬 Trust your instincts — you know your baby best</string>
+</resources>

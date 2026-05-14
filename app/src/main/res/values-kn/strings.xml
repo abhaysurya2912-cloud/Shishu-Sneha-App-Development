@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">ಶಿಶು ಸ್ನೇಹ</string>
+    <string name="app_tagline">ನಿಮ್ಮ ಮಗುವಿನ ಮೊದಲ ವರ್ಷದ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="app_tagline_kannada">ಶಿಶು ಸ್ನೇಹ</string>
+    <string name="splash_subtitle">ನಿಮ್ಮ ಮಗುವಿನ ಮೊದಲ ವರ್ಷದ ಮಾರ್ಗದರ್ಶಿ</string>
+
+    <!-- Profile setup -->
+    <string name="welcome_to_shishu_sneh">ಶಿಶು ಸ್ನೇಹಕ್ಕೆ ಸ್ವಾಗತ</string>
+    <string name="setup_profile_desc">ನಿಮ್ಮ ಮಗುವಿನ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡೋಣ</string>
+    <string name="mothers_info">ತಾಯಿಯ ಮಾಹಿತಿ</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="profile_mother_name">ತಾಯಿಯ ಹೆಸರು</string>
+    <string name="babys_info">ಮಗುವಿನ ಮಾಹಿತಿ</string>
+    <string name="babys_name">ಮಗುವಿನ ಹೆಸರು</string>
+    <string name="profile_baby_name">ಮಗುವಿನ ಹೆಸರು</string>
+    <string name="babys_gender">ಮಗುವಿನ ಲಿಂಗ</string>
+    <string name="boy">ಹುಡುಗ</string>
+    <string name="girl">ಹುಡುಗಿ</string>
+    <string name="date_of_birth">ಹುಟ್ಟಿದ ದಿನಾಂಕ</string>
+    <string name="profile_dob">ಜನ್ಮ ದಿನಾಂಕ</string>
+    <string name="tap_to_select">ದಿನಾಂಕವನ್ನು ಆರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="start_journey">ನನ್ನ ಪ್ರಯಾಣವನ್ನು ಪ್ರಾರಂಭಿಸಿ ✨</string>
+    <string name="please_fill_all">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="error_name_required">ಹೆಸರು ಅಗತ್ಯ</string>
+    <string name="error_baby_name_required">ಮಗುವಿನ ಹೆಸರು ಅಗತ್ಯ</string>
+    <string name="error_dob_required">ದಯವಿಟ್ಟು ಜನ್ಮ ದಿನಾಂಕವನ್ನು ಆರಿಸಿ</string>
+
+    <!-- Home -->
+    <string name="good_morning">ಶುಭೋದಯ</string>
+    <string name="good_afternoon">ಶುಭ ಮಧ್ಯಾಹ್ನ</string>
+    <string name="good_evening">ಶುಭ ಸಂಜೆ</string>
+    <string name="is_weeks_old">%1$s ಗೆ %2$d ವಾರಗಳು</string>
+    <string name="babys_age">ಮಗುವಿನ ವಯಸ್ಸು</string>
+    <string name="weeks_short">%d ವಾರಗಳು</string>
+    <string name="months_days">%1$d ತಿಂಗಳು %2$d ದಿನಗಳು</string>
+    <string name="days_old">%d ದಿನಗಳ ಮಗು</string>
+    <string name="last_weight">ಕೊನೆಯ ತೂಕ</string>
+    <string name="healthy_range">ಆರೋಗ್ಯಕರ ವ್ಯಾಪ್ತಿ</string>
+    <string name="no_data_yet">ಇನ್ನೂ ಯಾವುದೇ ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="next_vaccine">ಮುಂದಿನ ಲಸಿಕೆ</string>
+    <string name="up_to_date">ಎಲ್ಲವೂ ಸರಿಯಾಗಿದೆ</string>
+    <string name="due_today_home">ಇಂದೇ ನೀಡಬೇಕು!</string>
+    <string name="tomorrow">ನಾಳೆ</string>
+    <string name="in_days">%d ದಿನಗಳಲ್ಲಿ</string>
+    <string name="all_done">ಎಲ್ಲವೂ ಮುಗಿದಿದೆ ✓</string>
+    <string name="vaccination_schedule">ಲಸಿಕೆ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="upcoming_vaccines">ಮುಂಬರುವ ಲಸಿಕೆಗಳು</string>
+    <string name="due_soon_count">%d ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ</string>
+    <string name="todays_milestone">ಇಂದಿನ ಮೈಲಿಗಲ್ಲು</string>
+    <string name="week_check">ವಾರ %d ಪರೀಕ್ಷೆ</string>
+    <string name="add_weight">+ ಇಂದಿನ ತೂಕವನ್ನು ಸೇರಿಸಿ ↗</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">ಮನೆ</string>
+    <string name="nav_growth">ಬೆಳವಣಿಗೆ</string>
+    <string name="nav_vaccines">ಲಸಿಕೆ</string>
+    <string name="nav_feeding">ಆಹಾರ</string>
+    <string name="nav_milestones">ಮೈಲಿಗಲ್ಲು</string>
+
+    <!-- Growth -->
+    <string name="growth_tracker">ಬೆಳವಣಿಗೆಯ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="track_growth_desc">%s ರ ಬೆಳವಣಿಗೆಯ ಪ್ರಯಾಣವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಿ</string>
+    <string name="latest_weight">ಇತ್ತೀಚಿನ ತೂಕ</string>
+    <string name="latest_height">ಇತ್ತೀಚಿನ ಎತ್ತರ</string>
+    <string name="growth_chart">ಬೆಳವಣಿಗೆಯ ಚಾರ್ಟ್</string>
+    <string name="monthly_trend">ಮಾಸಿಕ ತೂಕ ಮತ್ತು ಎತ್ತರದ ಪ್ರವೃತ್ತಿ</string>
+    <string name="weight_kg_label">ತೂಕ (ಕೆಜಿ)</string>
+    <string name="height_cm_label">ಎತ್ತರ (ಸೆಂ.ಮೀ)</string>
+    <string name="add_new_record">ಹೊಸ ದಾಖಲೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <string name="weight_kg">ತೂಕ (ಕೆಜಿ)</string>
+    <string name="height_cm">ಎತ್ತರ (ಸೆಂ.ಮೀ)</string>
+    <string name="valid_weight">ಸರಿಯಾದ ತೂಕವನ್ನು ನಮೂದಿಸಿ (0.1 - 30 ಕೆಜಿ)</string>
+    <string name="valid_height">ಸರಿಯಾದ ಎತ್ತರವನ್ನು ನಮೂದಿಸಿ (1 - 120 ಸೆಂ.ಮೀ)</string>
+    <string name="save_record">ದಾಖಲೆಯನ್ನು ಉಳಿಸಿ</string>
+    <string name="history">ಇತಿಹಾಸ</string>
+    <string name="no_records_yet">ಇನ್ನೂ ಯಾವುದೇ ದಾಖಲೆಗಳಿಲ್ಲ</string>
+    <string name="add_first_weight">ನಿಮ್ಮ ಮಗುವಿನ ಮೊದಲ ತೂಕದ ಅಳತೆಯನ್ನು ಸೇರಿಸಿ!</string>
+
+    <!-- Vaccination -->
+    <string name="vaccine_schedule">ಲಸಿಕೆ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="immunization_plan">%s ರ ಲಸಿಕೆ ಯೋಜನೆ</string>
+    <string name="vaccination_progress">ಲಸಿಕೆ ಪ್ರಗತಿ</string>
+    <string name="completed_count">%1$d ರಲ್ಲಿ %2$d ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="vaccines_due_soon">%d ಲಸಿಕೆ(ಗಳು) ಶೀಘ್ರದಲ್ಲೇ ಬಾಕಿ ಇದೆ</string>
+    <string name="done_label">ಮುಗಿದಿದೆ</string>
+    <string name="due_soon_label">ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ</string>
+    <string name="upcoming_label">ಮುಂಬರುವ</string>
+    <string name="missed_label">ತಪ್ಪಿಹೋಗಿದೆ</string>
+    <string name="completed_check">ಪೂರ್ಣಗೊಂಡಿದೆ ✓</string>
+    <string name="due_in_days">%d ದಿನಗಳಲ್ಲಿ ಬಾಕಿ ಇದೆ</string>
+    <string name="overdue_doctor">ಸಮಯ ಮೀರಿದೆ — ವೈದ್ಯರನ್ನು ಭೇಟಿ ಮಾಡಿ</string>
+    <string name="prevents">🛡️ ತಡೆಗಟ್ಟುತ್ತದೆ: %s</string>
+    <string name="setup_profile_first">ಮೊದಲು ನಿಮ್ಮ ಮಗುವಿನ ಪ್ರೊಫೈಲ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಿ</string>
+    <string name="mark_done">ಮುಗಿದಿದೆ ಎಂದು ಗುರುತಿಸಿ</string>
+    <string name="mark_undone">ಮುಗಿದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ</string>
+    <string name="mark_administered_late">ತಡವಾಗಿ ನೀಡಿದ ಎಂದು ಗುರುತಿಸಿ</string>
+
+    <!-- Feeding -->
+    <string name="feeding_guide">ಆಹಾರ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="nutrition_tips">ವಯಸ್ಸಿಗೆ ಅನುಗುಣವಾದ ಪೌಷ್ಟಿಕಾಂಶದ ಸಲಹೆಗಳು</string>
+    <string name="showing_tips">%s ಗಾಗಿ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="months_old">%d ತಿಂಗಳ ಮಗು</string>
+    <string name="newborn">ನವಜಾತ ಶಿಶು</string>
+    <string name="general_guidance">ಸಾಮಾನ್ಯ ಮಾರ್ಗದರ್ಶನ</string>
+
+    <!-- Feeding/Profile -->
+    <string name="months_old_short">%d ತಿಂಗಳ ಮಗು</string>
+
+    <!-- Milestones -->
+    <string name="milestones">ಮೈಲಿಗಲ್ಲುಗಳು</string>
+    <string name="dev_journey">%s ರ ಬೆಳವಣಿಗೆಯ ಪ್ರಯಾಣ</string>
+    <string name="milestones_achieved">ಸಾಧಿಸಿದ ಮೈಲಿಗಲ್ಲುಗಳು</string>
+    <string name="checked_count">%1$d ರಲ್ಲಿ %2$d ಪರೀಕ್ಷಿಸಲಾಗಿದೆ</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="milestones_appear">ನಿಮ್ಮ ಮಗು ಬೆಳೆದಂತೆ ಮೈಲಿಗಲ್ಲುಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ!</string>
+    <string name="yes_check">ಹೌದು ✓</string>
+    <string name="not_yet">ಇನ್ನೂ ಇಲ್ಲ</string>
+
+    <!-- Profiles -->
+    <string name="baby_profiles">ಮಗುವಿನ ಪ್ರೊಫೈಲ್‌ಗಳು</string>
+    <string name="manage_profiles">ಹಲವಾರು ಮಗುವಿನ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="switch_baby">ಬದಲಾಯಿಸಿ</string>
+    <string name="active">ಸಕ್ರಿಯ</string>
+    <string name="add_baby">ಮಗುವನ್ನು ಸೇರಿಸಿ</string>
+
+    <!-- Language -->
+    <string name="language_settings">ಭಾಷಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆರಿಸಿ / Select Language</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
+    <!-- Notifications -->
+    <string name="vaccine_channel_name">ಲಸಿಕೆ ಜ್ಞಾಪನೆಗಳು</string>
+    <string name="vaccine_channel_desc">ಮುಂಬರುವ ಲಸಿಕೆಗಳಿಗಾಗಿ ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="vaccine_reminder_title">💉 ಲಸಿಕೆ ಜ್ಞಾಪನೆ</string>
+
+    <!-- Growth Chart -->
+    <string name="chart_height_note">ಟಿಪ್ಪಣಿ: ಎತ್ತರವನ್ನು ಸೆಂ.ಮೀ ÷ 10 ರಲ್ಲಿ ತೋರಿಸಲಾಗಿದೆ</string>
+    <string name="add_more_records">ಬೆಳವಣಿಗೆಯ ಪ್ರವೃತ್ತಿ ನೋಡಲು ಇನ್ನೊಂದು ದಾಖಲೆಯನ್ನು ಸೇರಿಸಿ</string>
+    <!-- Feeding Tips Titles -->
+    <string name="tip_exclusive_breastfeeding">ಕೇವಲ ಎದೆಹಾಲು ಉಣಿಸುವುದು</string>
+    <string name="tip_breastfeeding_latch">ಮಗು ಹಾಲು ಕುಡಿಯುವ ಸರಿಯಾದ ವಿಧಾನ</string>
+    <string name="tip_night_feeding">ರಾತ್ರಿ ವೇಳೆ ಹಾಲು ಉಣಿಸುವುದು</string>
+    <string name="tip_starting_solids">ಘನ ಆಹಾರವನ್ನು ಪ್ರಾರಂಭಿಸುವುದು</string>
+    <string name="tip_foods_introduce">ನೀಡಬಹುದಾದ ಆಹಾರಗಳು</string>
+    <string name="tip_foods_avoid">1 ವರ್ಷದ ಒಳಗಿನ ಮಕ್ಕಳಿಗೆ ನೀಡಬಾರದ ಆಹಾರಗಳು</string>
+    <string name="tip_iron_rich_foods">ಕಬ್ಬಿಣದಂಶವಿರುವ ಆಹಾರಗಳು</string>
+    <string name="tip_signs_hunger">ಹಸಿವಿನ ಲಕ್ಷಣಗಳು</string>
+    <string name="tip_vitamin_d">ವಿಟಮಿನ್ ಡಿ ಪೂರಕಗಳು</string>
+    <string name="tip_hydration_toddlers">ಮಕ್ಕಳಿಗೆ ನೀರಿನ ಅವಶ್ಯಕತೆ</string>
+
+    <!-- Feeding Tips Descriptions -->
+    <string name="desc_exclusive_breastfeeding">ಎದೆಹಾಲು ನಿಮ್ಮ ಮಗುವಿಗೆ ಪರಿಪೂರ್ಣ ಆಹಾರವಾಗಿದೆ. ಮಗು ಕೇಳಿದಾಗಲೆಲ್ಲಾ - ಪ್ರತಿ 2-3 ಗಂಟೆಗಳಿಗೊಮ್ಮೆ (ದಿನಕ್ಕೆ 8-12 ಬಾರಿ) ಹಾಲು ಉಣಿಸಿ. ಮೊದಲ 6 ತಿಂಗಳವರೆಗೆ ನೀರು ಅಥವಾ ಬೇರೆ ಯಾವುದೇ ಆಹಾರದ ಅಗತ್ಯವಿಲ್ಲ.</string>
+    <string name="desc_breastfeeding_latch">ಮಗುವಿನ ಬಾಯಿ ಕೇವಲ ತೊಟ್ಟನ್ನು ಮಾತ್ರವಲ್ಲದೆ, ಅದರ ಸುತ್ತಲಿನ ಕಪ್ಪು ಭಾಗವನ್ನೂ (ಅರಿಯೊಲಾ) ಮುಚ್ಚಿದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಸರಿಯಾಗಿ ಹಾಲು ಉಣಿಸುವುದು ನೋವುಂಟು ಮಾಡುವುದಿಲ್ಲ. ಒಂದು ವೇಳೆ ನೋವಾಗುತ್ತಿದ್ದರೆ, ನಿಧಾನವಾಗಿ ಬಿಡಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="desc_night_feeding">ಹಾಲು ಉತ್ಪತ್ತಿಯಾಗಲು ರಾತ್ರಿ ವೇಳೆ ಹಾಲು ಉಣಿಸುವುದು ಮುಖ್ಯವಾಗಿದೆ. ರಾತ್ರಿಯಲ್ಲಿ ಹಾಲು ಉತ್ಪಾದಿಸುವ ಹಾರ್ಮೋನ್ (ಪ್ರೊಲ್ಯಾಕ್ಟಿನ್) ಮಟ್ಟವು ಹೆಚ್ಚಾಗಿರುತ್ತದೆ. ಅನುಕೂಲಕ್ಕಾಗಿ ಮಲಗಿಕೊಂಡು ಹಾಲು ಉಣಿಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="desc_starting_solids">6 ತಿಂಗಳ ನಂತರ, ಮೃದುವಾದ ಆಹಾರಗಳನ್ನು ಪರಿಚಯಿಸಿ: ಅಕ್ಕಿ ಗಂಜಿ, ಬೇಳೆ ಸಾರು, ಬಾಳೆಹಣ್ಣು, ಬೇಯಿಸಿದ ತರಕಾರಿಗಳು. 1-2 ಚಮಚದೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಿ, ಕ್ರಮೇಣ ಹೆಚ್ಚಿಸಿ. ಎದೆಹಾಲು ಉಣಿಸುವುದನ್ನು ಮುಂದುವರಿಸಿ.</string>
+    <string name="desc_foods_introduce">6-8 ತಿಂಗಳು: ಮೃದುವಾದ ಧಾನ್ಯಗಳು, ತರಕಾರಿಗಳು, ಹಣ್ಣುಗಳು\n8-10 ತಿಂಗಳು: ಚೆನ್ನಾಗಿ ಬೇಯಿಸಿದ ಮಾಂಸ, ಮೊಟ್ಟೆ, ಮೃದುವಾದ ಬೆರಳು ಆಹಾರಗಳು (finger foods)\n10-12 ತಿಂಗಳು: ಮನೆಯಲ್ಲಿ ತಯಾರಿಸಿದ ಮೃದುವಾದ ಆಹಾರಗಳು</string>
+    <string name="desc_foods_avoid">❌ ಜೇನುತುಪ್ಪ (ಬೊಟುಲಿಸಮ್ ಅಪಾಯ)\n❌ ಮುಖ್ಯ ಪಾನೀಯವಾಗಿ ಹಸುವಿನ ಹಾಲು\n❌ ಹೆಚ್ಚುವರಿ ಉಪ್ಪು ಅಥವಾ ಸಕ್ಕರೆ\n❌ ಇಡೀ ಬೀಜಗಳು (ಗಂಟಲಿನಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಳ್ಳುವ ಅಪಾಯ)\n❌ ಹಸಿ ಮೊಟ್ಟೆ</string>
+    <string name="desc_iron_rich_foods">ಮೆದುಳಿನ ಬೆಳವಣಿಗೆಗೆ ಕಬ್ಬಿಣದಂಶ ಬಹಳ ಮುಖ್ಯ. ಉತ್ತಮ ಮೂಲಗಳು: ಬೇಳೆಕಾಳುಗಳು, ಮಾಂಸ, ಕಬ್ಬಿಣದಂಶವಿರುವ ಧಾನ್ಯಗಳು, ಹಸಿರು ಎಲೆ ತರಕಾರಿಗಳು. ಹೀರಲ್ಪಡುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ವಿಟಮಿನ್ ಸಿ ಆಹಾರಗಳೊಂದಿಗೆ (ಟೊಮ್ಯಾಟೊ, ನಿಂಬೆ) ನೀಡಿ.</string>
+    <string name="desc_signs_hunger">ಆರಂಭಿಕ ಲಕ್ಷಣಗಳು: ಕೈಗಳನ್ನು ಚೀಪುವುದು, ತಲೆಯನ್ನು ಅಕ್ಕಪಕ್ಕ ತಿರುಗಿಸುವುದು\nಕೊನೆಯ ಲಕ್ಷಣಗಳು: ಅಳುವುದು ಹಸಿವಿನ ಕೊನೆಯ ಲಕ್ಷಣವಾಗಿದೆ - ಅಳುವ ಮೊದಲೇ ಹಾಲು ಉಣಿಸಲು ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="desc_vitamin_d">ಕೇವಲ ಎದೆಹಾಲು ಕುಡಿಯುವ ಮಗುವಿಗೆ, ಮೊದಲ ದಿನದಿಂದ ಪ್ರತಿದಿನ 400 IU ವಿಟಮಿನ್ ಡಿ ಹನಿಗಳನ್ನು ನೀಡಿ. ಸೂರ್ಯನ ಬೆಳಕು ಮಾತ್ರ ಯಾವಾಗಲೂ ಸಾಕಾಗುವುದಿಲ್ಲ.</string>
+    <string name="desc_hydration_toddlers">12 ತಿಂಗಳ ನಂತರ, ಹಸುವಿನ ಹಾಲನ್ನು ಪರಿಚಯಿಸಿ (ದಿನಕ್ಕೆ 500-700 ಮಿಲಿ ಸೀಮಿತಗೊಳಿಸಿ). ನೀರು ಅತ್ಯುತ್ತಮ ಪಾನೀಯವಾಗಿದೆ. ಹಣ್ಣಿನ ರಸಗಳನ್ನು ತಪ್ಪಿಸಿ - ಅವುಗಳಲ್ಲಿ ಸಕ್ಕರೆ ಹೆಚ್ಚಿರುತ್ತದೆ ಮತ್ತು ಪೌಷ್ಟಿಕಾಂಶ ಕಡಿಮೆ ಇರುತ್ತದೆ.</string>
+
+    <!-- General Feeding Tips -->
+    <string name="gen_tip_doctor">🩺 ಮಗುವಿನ ತೂಕ ಹೆಚ್ಚಾಗದಿದ್ದರೆ ವೈದ್ಯರನ್ನು ಭೇಟಿ ಮಾಡಿ</string>
+    <string name="gen_tip_force_feed">😴 ಮಲಗಿರುವ ಮಗುವಿಗೆ ಬಲವಂತವಾಗಿ ಆಹಾರ ನೀಡಬೇಡಿ</string>
+    <string name="gen_tip_wash_hands">🧼 ಪ್ರತಿ ಬಾರಿ ಆಹಾರ ನೀಡುವ ಮೊದಲು ಕೈಗಳನ್ನು ತೊಳೆದುಕೊಳ್ಳಿ</string>
+    <string name="gen_tip_diary">📝 ಮೊದಲ ತಿಂಗಳು ಆಹಾರ ನೀಡುವ ಸಮಯದ ವಿವರಗಳನ್ನು ಬರೆದಿಡಿ</string>
+    <string name="gen_tip_instincts">💬 ನಿಮ್ಮ ಮನಸ್ಸಿನ ಮಾತನ್ನು ನಂಬಿ - ನಿಮ್ಮ ಮಗುವಿನ ಬಗ್ಗೆ ನಿಮಗೆ ಚೆನ್ನಾಗಿ ತಿಳಿದಿದೆ</string>
+</resources>
